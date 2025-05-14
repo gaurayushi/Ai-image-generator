@@ -3,9 +3,7 @@
 Think and create image with AI-powered image generator.
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<a name="readme-top"></a>
 
-[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/eforrester01/)
 
 <br />
 <div align="center">
@@ -62,18 +60,6 @@ View the project 🎉
 - [x] Image upload with Cloudinary
 - [x] Full-stack deployment
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Contact
 
-Emma F. - [@foreycodes](https://twitter.com/foreycodes) - foreycodes@gmail.com  
-Project Repo: [https://github.com/foreycodes/AI-MERN-Image-Generation](https://github.com/foreycodes/AI-MERN-Image-Generation)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Acknowledgments
-
-* [Javascript Mastery](https://www.jsmastery.pro/)
-
-<!-- MARKDOWN LINKS -->
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
