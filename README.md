@@ -39,13 +39,6 @@ Think and create image with AI-powered image generator.
 
 ![Image](https://i.imgur.com/es6vSI1.png)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Live Project
-
-View the project 🎉  
-* [Netlify](https://forey-ai-mern.netlify.app/)
-
 ### Built With
 
 * Node.js, Express.js, MongoDB, React.js (MERN STACK)  
@@ -62,18 +55,7 @@ View the project 🎉
 - [x] Image upload with Cloudinary
 - [x] Full-stack deployment
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Contact
 
-Emma F. - [@foreycodes](https://twitter.com/foreycodes) - foreycodes@gmail.com  
-Project Repo: [https://github.com/foreycodes/AI-MERN-Image-Generation](https://github.com/foreycodes/AI-MERN-Image-Generation)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Acknowledgments
-
-* [Javascript Mastery](https://www.jsmastery.pro/)
-
-<!-- MARKDOWN LINKS -->
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
